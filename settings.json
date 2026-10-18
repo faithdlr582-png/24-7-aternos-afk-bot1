@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "solocloud.host",
-    "port": 25565,
+    "port": 12442,
     "version": "1.20.1",
     "try-creative": false
   },
