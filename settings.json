@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Pundachimon",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "sonicxultronxtitan.aternos.me",
-    "port": 12442,
+    "ip": "sonicxultronxtitan.exaroton.me",
+    "port": 27415,
     "version": "1.20.1",
     "try-creative": false
   },
